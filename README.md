@@ -5,15 +5,6 @@ This repository contains Streamlit-based chatbot application built using LangCha
 ## Live Demo (OpenAI)
 https://chatbot-openai888.streamlit.app
 
-## Project Structure
-QA_Chatbot/
-├── app_openai.py
-├── app_ollama.py
-├── requirements.txt
-├── .env
-├── venv/
-└── README.md
-
 ## Features
 OpenAI Chatbot:
 - Uses GPT-4o, GPT-4 Turbo, GPT-4

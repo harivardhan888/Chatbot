@@ -1,4 +1,4 @@
-# Q&A Chatbot Suite (OpenAI, Ollama)
+# Q&A Chatbot (OpenAI, Ollama)
 
 This repository contains Streamlit-based chatbot application built using LangChain. One chatbot uses OpenAI GPT models and can be deployed online, while the other uses local Ollama models and runs offline on your machine.
 
